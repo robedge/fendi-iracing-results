@@ -2,3 +2,4 @@ __pycache__/
 .idea
 teams.py
 config.py
+.DS_Store
