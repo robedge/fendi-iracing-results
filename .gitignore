@@ -3,3 +3,4 @@ __pycache__/
 teams.py
 config.py
 .DS_Store
+results/*
